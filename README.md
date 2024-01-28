@@ -16,3 +16,4 @@ pip install -r requirements.txt
 python3 main.py
 ```
 順利的話就會看到畫面了。
+<a href="http://www.example.com" target="_blank">项目网站</a>
