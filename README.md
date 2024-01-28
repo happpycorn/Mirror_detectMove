@@ -5,7 +5,7 @@
 
 下載下來後請 **確定電腦有接到任何一顆鏡頭**，然後開啟這個程式，順利的話就會看到畫面了。
 ### 2.使用原碼執行
-在開始之前先確定你有安裝 Python3，如果沒有的話請先去 <a href="https://www.python.org/" target="_blank">Python官網</a> 安裝。
+在開始之前先確定你有安裝 Python3，如果沒有的話請先去 <a href="https://www.python.org/">Python官網</a> 安裝。
 
 確定有安裝 Python3 後，將"main.py"與"requirements.txt"下載下來，並在電腦上執行：
 ```
