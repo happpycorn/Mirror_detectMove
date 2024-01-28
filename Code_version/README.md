@@ -6,19 +6,19 @@
 
 這是一開始的測試程式，出來的效果如下：
 
-![image](Image/V0.0Image.gif)
+![image](https://github.com/happpycorn/Mirro_detectMove/blob/main/Image/V0.0Image.gif)
 
 ## V1.0.py
 
 這是加上特效後的第一版，使用的特效是淡化，效果如下：
 
-![image](Image/V1.0Image.gif)
+![image](https://github.com/happpycorn/Mirro_detectMove/blob/main/Image/V1.0Image.gif)
 
 ## V2.0.py
 
 這是另一種的特效，使用的特效是縮小，效果如下：
 
-![image](Image/V2.0Image.gif)
+![image](https://github.com/happpycorn/Mirro_detectMove/blob/main/Image/V2.0Image.gif)
 
 ## 不存在的 V3.0.py
 
@@ -30,4 +30,4 @@
 
 效果：
 
-![image](Image/V4.0Image.gif)
+![image](https://github.com/happpycorn/Mirro_detectMove/blob/main/Image/V4.0Image.gif)
