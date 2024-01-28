@@ -1,4 +1,9 @@
 # 數位鏡面-遷
+這是數位鏡面的第二個作品
+
+
+
+
 ## 使用方式
 ### 1.直接使用安裝包
 到連結中下載打包好的.exe檔：[https://drive.google.com/file/d/1HUE9LsAZ99WnqsUZsaMwt_MIobXOjask/view?usp=drive_link](https://drive.google.com/file/d/1HUE9LsAZ99WnqsUZsaMwt_MIobXOjask/view?usp=drive_link)
