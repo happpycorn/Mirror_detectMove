@@ -26,7 +26,7 @@
 
 ![image](Image/V2.0Image.gif)
 
-補充：顯示之所以用Pygame
+補充：顯示之所以用Pygame是一個繼承過來的小習慣，我會用的圖形介面有三個，OpenCV,Turtle,PyGame。習慣對應的是 Opencv：原影像、Turtle：控制介面、Pygame：處理過的影像，所以這邊就是多了一個步驟。
 
 ## 使用方式
 
