@@ -1,6 +1,5 @@
 # 數位鏡面-遷
 ## 使用方式
-```python
-   print("helloworld")
+```shell
    pip install -r requirements.txt
 ```
