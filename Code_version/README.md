@@ -14,17 +14,17 @@
 
 ![image](https://github.com/happpycorn/Mirro_detectMove/blob/main/Image/V1.0Image.gif)
 
-## V2.0.py
+## V1.1.py
 
 這是另一種的特效，使用的特效是縮小，效果如下：
 
 ![image](https://github.com/happpycorn/Mirro_detectMove/blob/main/Image/V2.0Image.gif)
 
-## 不存在的 V3.0.py
+## 不存在的 V2.0.py
 
-一般我會把有控制選項的命名為 V3.0，但它目前難產中...
+一般我會把有控制選項的命名為 V2.0，但它目前難產中...
 
-## V4.0.py
+## V3.0.py
 
 這是在上完課後又做的簡化版本，修改的版本是 V1.0。最大的改變就是把 Pygame 優化出去，讓整個程式碼更簡潔了一些。(除此之外還改了滿多的，基本上就是把程式丟給 ChatGPT 跑一輪，改，再跑一輪，再改...)
 
