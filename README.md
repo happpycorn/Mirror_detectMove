@@ -57,4 +57,9 @@ python3 main.py
 
 ## 其他鏡子...
 
-其他數位鏡面...(之後會放)
+<a href="https://github.com/happpycorn/Mirror_Line">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=Mirror_Line&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Mirror_Line">
+</a>
+<a href="https://github.com/happpycorn/Mirror_mix">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=Mirror_mix&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Mirror_mix">
+</a>
